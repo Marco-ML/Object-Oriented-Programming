@@ -1,5 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
-
 from relogio import Relogio
 
 if __name__ == '__main__':
