@@ -1,4 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
 class Ponto:
     '''
     Classe que cria um ponto no plano cartersiano.
