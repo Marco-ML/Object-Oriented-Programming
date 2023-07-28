@@ -1,4 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
 class Relogio:
     '''
     Classe que cria uma relógio contendo hora, minuto e segundo.
