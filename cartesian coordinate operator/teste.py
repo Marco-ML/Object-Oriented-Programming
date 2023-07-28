@@ -1,5 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
-
 from ponto import Ponto
 
 if __name__ == '__main__':
