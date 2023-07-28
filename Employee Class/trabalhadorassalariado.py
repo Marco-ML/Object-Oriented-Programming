@@ -1,5 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
-
 from funcionario import Funcionario
 
 class TrabalhadorAssalariado(Funcionario):
