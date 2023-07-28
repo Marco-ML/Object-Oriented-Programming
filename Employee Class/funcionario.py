@@ -1,4 +1,3 @@
-#Autor: Marco Aurélio Araújo da Costa
 class Funcionario:
     '''
     Classe que cria um funcionário.
